@@ -12,4 +12,5 @@
 
 <br>
 
-![image](https://github.com/xaesu/Unity-AR-ImageTracking/assets/133942666/a5f0f793-cc01-4e50-9704-205be4f075b0)
+
+![스크린샷 2023-10-13 015316](https://github.com/xaesu/Unity-AR-Tracking/assets/133942666/63092cd2-f3a2-4629-825f-ea0f307d82a7)
